@@ -27,6 +27,7 @@ public class GenList<T> implements GGenList<T>{
     }
 
     //判断广义表是否为空
+    //Git Add Test
     @Override
     public boolean isEmpty() {
         return head.next == null;
