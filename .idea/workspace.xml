@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="085c7c6a-a311-4dc2-9408-5e05b23efad4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pers/zhang/genList/GitAddTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pers/zhang/genList/GenList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pers/zhang/genList/GenList.java" afterDir="false" />
-    </list>
+    <list default="true" id="085c7c6a-a311-4dc2-9408-5e05b23efad4" name="Default Changelist" comment="" />
+    <list id="37a336be-d95b-4429-98f4-a5ea5401fe0f" name="Revert &quot;提交到本地仓库测试&quot;" comment="Revert &quot;提交到本地仓库测试&quot;&#10;&#10;This reverts commit 51a4f1b5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,6 +17,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="2dzEmq4WRBPK8PUpHir7AXYcwvp" />
   <component name="ProjectViewState">
@@ -68,5 +65,13 @@
       <screen x="0" y="23" width="1792" height="1032" />
     </state>
     <state x="503" y="142" width="991" height="800" key="CommitChangelistDialog2/0.23.1792.1032@0.23.1792.1032" timestamp="1711003135809" />
+    <state x="703" y="463" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1711004077817">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="703" y="463" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1792.1032@0.23.1792.1032" timestamp="1711004077817" />
+    <state x="583" y="338" key="git4idea.merge.GitPullDialog" timestamp="1711004140831">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="583" y="338" key="git4idea.merge.GitPullDialog/0.23.1792.1032@0.23.1792.1032" timestamp="1711004140831" />
   </component>
 </project>
