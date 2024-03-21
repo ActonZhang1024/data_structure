@@ -6,4 +6,5 @@ package pers.zhang.genList;
  * @Version 1.0
  */
 public class GitAddTest {
+    //用于测试撤销远程推送
 }
