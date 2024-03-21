@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="085c7c6a-a311-4dc2-9408-5e05b23efad4" name="Default Changelist" comment="" />
+    <list default="true" id="085c7c6a-a311-4dc2-9408-5e05b23efad4" name="Default Changelist" comment="Revert &quot;用于测试远程推送的撤销&quot;&#10;                                                             &#10;                                                             This reverts commit f600e287c188aea69f61d0010f9840aebd2a16ea.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <list id="37a336be-d95b-4429-98f4-a5ea5401fe0f" name="Revert &quot;提交到本地仓库测试&quot;" comment="Revert &quot;提交到本地仓库测试&quot;&#10;&#10;This reverts commit 51a4f1b5" />
+    <list id="ba4b745a-0be7-438d-b97e-a72901dbde4c" name="Revert &quot;用于测试远程推送的撤销&quot;" comment="Revert &quot;用于测试远程推送的撤销&quot;&#10;&#10;This reverts commit f600e287" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,17 +57,70 @@
       <option name="presentableId" value="Default" />
       <updated>1711002667671</updated>
       <workItem from="1711002669008" duration="441000" />
+      <workItem from="1711004068774" duration="1621000" />
     </task>
+    <task id="LOCAL-00001" summary="git commit test 2">
+      <created>1711004381312</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711004381312</updated>
+    </task>
+    <task id="LOCAL-00002" summary="用于测试本地提交的撤销">
+      <created>1711004723108</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711004723108</updated>
+    </task>
+    <task id="LOCAL-00003" summary="用于测试远程推送的撤销">
+      <created>1711005141768</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711005141768</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit test 2" />
+    <MESSAGE value="用于测试本地提交的撤销" />
+    <MESSAGE value="用于测试远程推送的撤销" />
+    <option name="LAST_COMMIT_MESSAGE" value="用于测试远程推送的撤销" />
+    <option name="PRESELECT_EXISTING_CHANGELIST" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="503" y="142" width="991" height="800" key="CommitChangelistDialog2" timestamp="1711003135809">
+    <state x="519" y="205" key="#Notifications" timestamp="1711005423115">
       <screen x="0" y="23" width="1792" height="1032" />
     </state>
-    <state x="503" y="142" width="991" height="800" key="CommitChangelistDialog2/0.23.1792.1032@0.23.1792.1032" timestamp="1711003135809" />
+    <state x="519" y="205" key="#Notifications/0.23.1792.1032@0.23.1792.1032" timestamp="1711005423115" />
+    <state x="503" y="142" width="991" height="800" key="CommitChangelistDialog2" timestamp="1711005720018">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="503" y="142" width="991" height="800" key="CommitChangelistDialog2/0.23.1792.1032@0.23.1792.1032" timestamp="1711005720018" />
+    <state x="770" y="462" width="408" height="292" key="VCS.ChangelistChooser" timestamp="1711004932446">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="770" y="462" width="408" height="292" key="VCS.ChangelistChooser/0.23.1792.1032@0.23.1792.1032" timestamp="1711004932446" />
+    <state x="519" y="279" key="Vcs.Push.Dialog.v2" timestamp="1711005727045">
+      <screen x="0" y="23" width="1792" height="1032" />
+    </state>
+    <state x="519" y="279" key="Vcs.Push.Dialog.v2/0.23.1792.1032@0.23.1792.1032" timestamp="1711005727045" />
     <state x="703" y="463" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1711004077817">
       <screen x="0" y="23" width="1792" height="1032" />
     </state>
